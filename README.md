@@ -2,7 +2,7 @@
 
 
 ## Problem Statement
-Gathering, analyzing & visualizing key insights from the QS university rankings (Arts & Humanities) 
+Gathering, analyzing & visualizing key insights from [QS university rankings (Arts & Humanities)](https://www.topuniversities.com/university-rankings/university-subject-rankings/2022/arts-humanities). <br/> 
 
 
 ## Build from sources & run the Selenium scraper
@@ -25,4 +25,6 @@ pip install -r requirements.txt
 
 
 ## Analytics
-Tableau Public Viz - https://public.tableau.com/app/profile/md.rizvee.hasan/viz/QSRankingsInfographicsArtsHumanities/Dashboard1
+[Tableau Public Viz](https://public.tableau.com/app/profile/md.rizvee.hasan/viz/QSRankingsInfographicsArtsHumanities/Dashboard1). <br/>
+
+## Takeaways
