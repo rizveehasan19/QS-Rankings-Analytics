@@ -1,5 +1,10 @@
 # Inspecting-QS-Rankings
 
+
+## Problem Statement
+Gathering, analyzing & visualizing key insights from the QS university rankings (Arts & Humanities) 
+
+
 ## Build from sources & run the Selenium scraper
 1. Clone the repo
 ~~~bash
