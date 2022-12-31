@@ -1,6 +1,6 @@
 # Inspecting-QS-Rankings
 
-##Build from sources & run the Selenium scraper
+## Build from sources & run the Selenium scraper
 1. Clone the repo
 ~~~bash
 git clone https://github.com/rizveehasan19/Inspecting-QS-Rankings.git
@@ -19,5 +19,5 @@ pip install -r requirements.txt
 6. A file will appear, named "QS_Art_Hum.csv"
 
 
-##Analytics
+## Analytics
 Tableau Public Viz - https://public.tableau.com/app/profile/md.rizvee.hasan/viz/QSRankingsInfographicsArtsHumanities/Dashboard1
