@@ -1,4 +1,4 @@
-# Inspecting-QS-Rankings
+# QS Rankings Analytics
 
 
 ## Problem Statement
